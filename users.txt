@@ -1,0 +1,7 @@
+# IP ADDRESS | Speed download in kbit/s | Speed upload in kbit/s
+# Admin
+10.1.10.2,2a01:d0:8a12:ff:3e07:54ff:fe3f:9f9b|20480|20480
+# Iphone
+10.1.10.3|1024|1024
+# RPI
+2a01:d0:8a12:ff:1c4e:84a7:9d81:38f3|2048|2048
